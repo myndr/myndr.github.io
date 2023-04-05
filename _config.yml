@@ -17,6 +17,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+lsi: false
+safe: true
+source: ""
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 title: Myndr Help center
 email: support@myndr.nl
@@ -33,6 +43,10 @@ favicon_ico: "https://permalink.myndr.net/myndr_logo_def_zwart_RGB_000000 512x51
 theme: just-the-docs
 plugins:
   - jekyll-feed
+
+aux_links:
+  "Naar de Myndr website":
+    - "//www.myndr.nl/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
