@@ -6,8 +6,8 @@ url: "https://myndr.github.io/" # the base hostname & protocol for your site, e.
 
 #twitter_username: myndr_nl
 #github_username:  myndr
-#logo: "https://permalink.myndr.net/logo_hor-trns.png"
-#favicon_ico: "https://permalink.myndr.net/myndr_logo_def_zwart_RGB_000000 512x512.png"
+logo: "https://permalink.myndr.net/logo_hor-trns.png"
+favicon_ico: "https://permalink.myndr.net/myndr_logo_def_zwart_RGB_000000 512x512.png"
 
 # Build settings
 
