@@ -67,7 +67,7 @@ PLATFORMS
   x86_64-darwin-22
 
 DEPENDENCIES
-  just-the-docs (= 0.4.2)
+  just-the-docs
   kramdown-parser-gfm
   webrick
 

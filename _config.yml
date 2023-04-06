@@ -1,16 +1,15 @@
 title: Myndr Help center
-description: >- # this means to ignore newlines until "baseurl:"
-  Antwoord op al je vragen over Myndr, de Myndr switch en het dagelijks gebruik ervan.
-
-url: "https://myndr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: myndr_nl
-github_username:  myndr
-logo: "https://permalink.myndr.net/logo_hor-trns.png"
-favicon_ico: "https://permalink.myndr.net/myndr_logo_def_zwart_RGB_000000 512x512.png"
-
-# Build settings
+description: Antwoord op al je vragen over Myndr, de Myndr switch en het dagelijks gebruik ervan.
 theme: just-the-docs
 
+url: "https://myndr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+#twitter_username: myndr_nl
+#github_username:  myndr
+#logo: "https://permalink.myndr.net/logo_hor-trns.png"
+#favicon_ico: "https://permalink.myndr.net/myndr_logo_def_zwart_RGB_000000 512x512.png"
+
+# Build settings
+
 aux_links:
-  "Naar de Myndr website":
-    - "//www.myndr.nl/"
+  Naar de Myndr website: "//www.myndr.nl/"
