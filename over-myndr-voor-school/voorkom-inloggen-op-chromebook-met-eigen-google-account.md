@@ -23,7 +23,8 @@ Klik bovenaan op **OPSLAAN**.
 
 Vanaf nu kunnen de leerlingen alleen met hun school-account inloggen!
 
-| Handig: Als de leerlingen de Chromebooks ook buiten school gebruiken kun je bij **Uren dat het beleid minder streng is** de tijden instellen dat deze beperkingen niet hoeven te gelden.
+{: .info }
+Handig: Als de leerlingen de Chromebooks ook buiten school gebruiken kun je bij **Uren dat het beleid minder streng is** de tijden instellen dat deze beperkingen niet hoeven te gelden.
 
 Om het helemaal af te maken kun je het beste nog een andere instelling wijzigen onder:
 
