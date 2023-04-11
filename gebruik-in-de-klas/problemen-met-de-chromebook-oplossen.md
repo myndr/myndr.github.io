@@ -41,7 +41,7 @@ Dit is overigens geen powerwash maar zorgt ervoor dat alle hardware weer in de s
 * Houd de Refresh toets ingedrukt (de toets met het ronde pijtje boven de toetsen 3 & 4) terwijl je de Chromebook weer aanzet
 * Laat de Refresh toets los als je het Chrome logo ziet
 
-|{: .highlight }
+{: .highlight }
 Als de problemen nog steeds niet zijn opgelost kun je het beste een Powerwash (laten) uitvoeren. Daarmee stel je de Chromebook volledig opnieuw in en wordt alles teruggezet naar de fabrieksinstellingen. [Lees hier meer over een Powerwash voor de Chromebook.](https://support.google.com/chromebook/answer/183084?hl=nl)
 
  
