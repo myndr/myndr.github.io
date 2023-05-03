@@ -8,10 +8,10 @@ title:  Nieuwe switch toevoegen
 
 Nadat je bent [ingelogd](https://admin.myndr.net/auth/login-admin) zie je op je dashboard een tegel met daarin een button **Nieuwe switch**. Klik op deze button. Er verschijnt een pop-up waarin je een aantal gegevens moet invullen.
 
-**Serienummer **
+**Serienummer**
 Vul hier het serienummer van de switch in. Deze vind je op de verpakking, of aan de achterzijde van de switch, in het batterijcompartiment. De code begint met MSA3 en ziet er ongeveer zo uit: MSA3/0000-0000000.
 
-**Klascode **
+**Klascode**
 Vul de klascode van de knop in. De klascode staat op het bijgeleverde kaartje en aan de achterzijde van de knop. De code heeft 4 cijfers.
 
 **Naam (van de klas)**
